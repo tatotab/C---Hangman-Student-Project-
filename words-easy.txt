@@ -1,0 +1,8 @@
+apple Fruit
+earth Planet
+house building
+egg chicken
+wave ocean
+water drink
+pillow sleep
+rag mat
